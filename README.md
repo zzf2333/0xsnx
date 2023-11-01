@@ -1,2 +1,2 @@
-# bsidian-file
-Recording personal Bsidian use files.
+# 0xsnx-file
+Store personal file resources.
