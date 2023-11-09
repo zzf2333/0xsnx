@@ -1,2 +1,2 @@
-# 0xsnx-file
+# 0xsnx
 Store personal file resources.
